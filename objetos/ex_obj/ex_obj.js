@@ -27,10 +27,9 @@ let animal3 = {
     filo: 'chordata',
     classe: 'mamíferos',
     pelos: true,
-    nomeCientifico: 'Canis lupus familiares',
     subespecie: {
-        cor: 'vermelho',
+        cor: 'branco e marrom',
         tipo: 'Beagle',
-        tamanho: 'médio'
+        tamanho: 38
     }
 }
