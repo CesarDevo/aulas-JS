@@ -1,9 +1,17 @@
-// 1, 1, 2, 3, 5, 8, 13, 21
+// 0, 1, 1, 2, 3, 5, 8, 13, 21
 
-let num = parseInt("Digite um número final do Fibonacci: ");
+let quant_nums = 10;
 
-for (let i = 1; i <= num; i++) {
+let primeiro = 0;
+let segundo = 1;
+let x;
 
-    
+for (let i = 1; i <= quant_nums; i++) {
+    console.log(primeiro);
+    x = primeiro + segundo;
 
+    primeiro = segundo;
+    segundo = x;
+
+    i++;
 }
