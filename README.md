@@ -13,3 +13,5 @@
 >> Arrays e Objetos
 >
 >> Funções
+>
+>> Métodos forEach(), map() e filter()
