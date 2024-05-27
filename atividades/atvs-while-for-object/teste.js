@@ -23,6 +23,3 @@
 // } else {
 //     console.log(`${g} is a number`);
 // }
-
-console.log(window);
-console.log(document);
